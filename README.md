@@ -2,7 +2,11 @@
 
 # Semolina Biscuit
 
+[Instructional video](https://youtu.be/tgaVRlZ5goc)
+
 ![Ready to serve photo](images/ready-to-serve.jpg)
+
+[Instructional video](https://youtu.be/tgaVRlZ5goc)
 
 ## Ingredients
 - 250g butter
